@@ -1,0 +1,33 @@
+{
+  "name": "banner-project",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bouzou4@github.com/bouzou4/Banner-Proj.git"
+  },
+  "author": "Adam Bouzourene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bouzou4/Banner-Proj/issues"
+  },
+  "homepage": "https://github.com/bouzou4/Banner-Proj#readme",
+  "dependencies": {
+    "css-loader": "^0.28.11",
+    "file-loader": "^1.1.11",
+    "html-webpack-plugin": "^3.2.0",
+    "jquery": "^3.3.1",
+    "node-sass": "^4.9.0",
+    "normalize.css": "^8.0.0",
+    "sass-loader": "^7.0.2",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.10.2",
+    "webpack-cli": "^3.0.2"
+  }
+}
